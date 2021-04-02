@@ -5,6 +5,26 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch AtmMachine",
+            "request": "launch",
+            "mainClass": "AtmMachine",
+            "projectName": "javalab_1b34fd25"
+        },
+        {
+            "command": "npm start",
+            "name": "Run npm start",
+            "request": "launch",
+            "type": "node-terminal"
+        },
+        {
+            "type": "java",
+            "name": "Launch InputUser",
+            "request": "launch",
+            "mainClass": "InputUser",
+            "projectName": "javalab_1b34fd25"
+        },
+        {
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
