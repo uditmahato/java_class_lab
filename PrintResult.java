@@ -4,6 +4,7 @@ public class PrintResult {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Your  Marks :");
         int marks = sc.nextInt();
+        sc.close();
         if(marks<=100) {
             if(marks<=100 && marks>80){
                 System.out.println("Congrats You have passed with First Class");

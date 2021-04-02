@@ -13,6 +13,7 @@ public class TestVotingAge {
         else{
             System.out.println("Sorry sishir,You are not eligible to Vote");
         }
+        sc.close();
 
     }
 }

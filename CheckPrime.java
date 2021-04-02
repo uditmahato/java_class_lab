@@ -5,6 +5,7 @@ public class CheckPrime {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the value that ypu want to check: ");
         int x = sc.nextInt();
+        sc.close();
         int count=0;
         for(int i=1;i<=x;i++){
             if( x%i==0)

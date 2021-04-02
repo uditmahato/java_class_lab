@@ -8,6 +8,6 @@ public class ScannerDetails {
         System.out.println(name);
         System.out.println(age);
         System.out.println(weight);
-
+        sc.close();
     }
 }
