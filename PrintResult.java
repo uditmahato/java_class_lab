@@ -14,7 +14,7 @@ public class PrintResult {
             }else if(marks<=50 && marks>40){
                 System.out.println("Congrats You have been passed with Third Class");
             }else{
-                System.out.println("Unfortuantely You have failed this time");
+                System.out.println("Unfortunately You have failed this time");
                 }
             }
         else {
