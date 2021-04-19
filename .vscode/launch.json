@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ArrMultipl",
+            "request": "launch",
+            "mainClass": "ArrMultipl",
+            "projectName": "javalab_1b34fd25"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayD",
+            "request": "launch",
+            "mainClass": "ArrayD",
+            "projectName": "javalab_1b34fd25"
+        },
+        {
+            "type": "java",
             "name": "Launch AtmMachine",
             "request": "launch",
             "mainClass": "AtmMachine",

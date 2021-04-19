@@ -2,15 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03f11429-38a2-48a5-aae3-00e4807bd3f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalculateTax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertTemp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CubeUpto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RectAP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javalab.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrintResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/PrintResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtmV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CheckArmstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoopOfStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PrintStartLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsingWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ValueDeclaration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ValueDeclaration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/CubeUpto.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,17 +40,20 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.CubeUpto">
-    <configuration name="ArraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraySorting" />
+  <component name="RunManager" selected="Application.ArrayD">
+    <configuration name="ArrayD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayD" />
       <module name="javalab" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -59,15 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculateTax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalculateTax" />
-      <module name="javalab" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConvertTemp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConvertTemp" />
+    <configuration name="AtmV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AtmV2" />
       <module name="javalab" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,33 +80,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectAP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RectAP" />
+    <configuration name="PrintStartLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrintStartLoop" />
       <module name="javalab" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseString" />
+      <module name="javalab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayD" />
         <item itemvalue="Application.CubeUpto" />
-        <item itemvalue="Application.CalculateTax" />
-        <item itemvalue="Application.ConvertTemp" />
-        <item itemvalue="Application.RectAP" />
-        <item itemvalue="Application.ArraySorting" />
+        <item itemvalue="Application.AtmV2" />
+        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.PrintStartLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -121,11 +126,20 @@
       <workItem from="1617557001029" duration="688000" />
       <workItem from="1617557723976" duration="254000" />
       <workItem from="1617558077594" duration="1514000" />
-      <workItem from="1617679809333" duration="3921000" />
+      <workItem from="1617679809333" duration="5706000" />
+      <workItem from="1617766812461" duration="5173000" />
+      <workItem from="1617974133925" duration="796000" />
+      <workItem from="1618158321362" duration="278000" />
+      <workItem from="1618244675933" duration="609000" />
+      <workItem from="1618245565997" duration="4518000" />
+      <workItem from="1618284828664" duration="1733000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
