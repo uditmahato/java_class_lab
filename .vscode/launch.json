@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ReverseNumber",
+            "request": "launch",
+            "mainClass": "ReverseNumber",
+            "projectName": "javalab_1b34fd25"
+        },
+        {
+            "type": "java",
+            "name": "Launch RevString",
+            "request": "launch",
+            "mainClass": "RevString",
+            "projectName": "javalab_1b34fd25"
+        },
+        {
+            "type": "java",
             "name": "Launch ArrMultipl",
             "request": "launch",
             "mainClass": "ArrMultipl",

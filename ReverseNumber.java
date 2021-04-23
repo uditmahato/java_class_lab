@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ReverseString {
+public class ReverseNumber {
     public static void main(String[] args)
     {
         Scanner input =new Scanner(System.in);
@@ -13,5 +13,6 @@ public class ReverseString {
             num = num/10;
         }
         System.out.println("The reverse of the given number is: " + rev);
+        input.close();
     }
 }
