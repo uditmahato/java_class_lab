@@ -1,26 +1,174 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03f11429-38a2-48a5-aae3-00e4807bd3f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtmV2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CubeUpto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DetailsConstructor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DetailsConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrintUdit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RectAP.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RevString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RevString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReverseNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentDetails.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentDetails.java" afterDir="false" />
+    <list default="true" id="7da370ac-15c5-4bf8-ae7d-5ae10d041f32" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labsheet4/Labsheet4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labsheet4/src/Dimen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labsheet4/src/Exam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labsheet4/src/StudMark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labsheet4/src/StudentClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labsheet4/src/bankAcc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labsheet4/src/bookClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labsheet4/src/circleCircum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labsheet4/src/dateShow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/ArrMultipl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/ArrMultipl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/ArrayD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/ArrayD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/ArrayIndexing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/AtmMachine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/AtmMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/AtmV2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/AtmV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/CalculateTax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/CheckArmstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/CheckPrime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/CheckPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/CheckSpecificValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/ConvertTemp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/CopyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/CubeUpto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/CubeUpto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/DepositMachine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/DepositMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/DetailsConstructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/DetailsConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/InputUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/InputUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/IntArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/LoopOfStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/MaxMinArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/PrintResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/PrintResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/PrintStartLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/PrintUdit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/RectAP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/RectAP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/RevString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/RevString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/ReverseNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/ScannerDetails.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/ScannerDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Sort2Dmatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/StudentDetails.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/StudentDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/SumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/TestVotingAge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/TestVotingAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/ValueDeclaration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/ValueDeclaration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/details.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/details.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/helloworld1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/helloworld1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/javalab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/operatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/operatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/out.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Labsheet4/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Labsheet4/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Labsheet4/Data.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Labsheet4/DateShow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Labsheet4/Dimen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Labsheet4/Dimension.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Labsheet4/Exam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Labsheet4/StudMark.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Labsheet4/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Labsheet4/StudentClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Labsheet4/Students.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Labsheet4/bankAcc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Labsheet4/bookClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Labsheet4/circleCircum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javalab/IntArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javalab/Sort2Dmatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javalab/SumArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReverseString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UsingWhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrMultipl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtmMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtmMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtmV2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtmV2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculateTax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckArmstrong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckPrime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckPrime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConvertTemp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeUpto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CubeUpto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DepositMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DepositMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DetailsConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DetailsConstructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InputUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InputUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoopOfStar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrintResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrintResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrintStartLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrintUdit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RectAP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RectAP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RevString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RevString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScannerDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScannerDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestVotingAge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestVotingAge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ValueDeclaration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ValueDeclaration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/details.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javalab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javalab.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/operatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/javalab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javalab/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/ArrMultipl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/ArrMultipl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/ArrayD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/ArrayD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/AtmMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/AtmMachine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/AtmV2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/AtmV2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/CalculateTax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/CalculateTax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/CheckArmstrong.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/CheckArmstrong.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/CheckPrime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/CheckPrime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/ConvertTemp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/ConvertTemp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/CubeUpto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/CubeUpto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/DepositMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/DepositMachine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/DetailsConstructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/DetailsConstructor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/InputUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/InputUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/LoopOfStar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/LoopOfStar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/PrintResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/PrintResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/PrintStartLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/PrintStartLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/PrintUdit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/PrintUdit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/RectAP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/RectAP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/RevString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/RevString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/ReverseNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/ReverseNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/ScannerDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/ScannerDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/StudentDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/StudentDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/TestVotingAge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/TestVotingAge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/ValueDeclaration.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/ValueDeclaration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/details.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/details.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/helloworld1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/helloworld1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javalab/operatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javalab/operatorTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +185,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1qiKVHspZTcN6i42I6cAht9ULJT" />
+  <component name="ProjectId" id="1s4loqlku1PCL4GTxtPOupxo5mM" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -52,95 +200,73 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.AtmV2">
-    <configuration name="ArrayD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayD" />
+  <component name="RunManager" selected="Application.Exam">
+    <configuration name="Dimen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dimen" />
+      <module name="Labsheet4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam" />
+      <module name="Labsheet4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntArray" />
       <module name="javalab" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AtmMachine" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AtmMachine" />
+    <configuration name="SumArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumArray" />
       <module name="javalab" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AtmV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AtmV2" />
-      <module name="javalab" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CubeUpto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CubeUpto" />
-      <module name="javalab" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DetailsConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DetailsConstructor" />
-      <module name="javalab" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseString" />
-      <module name="javalab" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="bankAcc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bankAcc" />
+      <module name="Labsheet4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AtmV2" />
-        <item itemvalue="Application.DetailsConstructor" />
-        <item itemvalue="Application.ArrayD" />
-        <item itemvalue="Application.CubeUpto" />
-        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.Exam" />
+        <item itemvalue="Application.bankAcc" />
+        <item itemvalue="Application.Dimen" />
+        <item itemvalue="Application.SumArray" />
+        <item itemvalue="Application.IntArray" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="03f11429-38a2-48a5-aae3-00e4807bd3f5" name="Default Changelist" comment="" />
-      <created>1617556997910</created>
+      <changelist id="7da370ac-15c5-4bf8-ae7d-5ae10d041f32" name="Default Changelist" comment="" />
+      <created>1620139922846</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1617556997910</updated>
-      <workItem from="1617557001029" duration="688000" />
-      <workItem from="1617557723976" duration="254000" />
-      <workItem from="1617558077594" duration="1514000" />
-      <workItem from="1617679809333" duration="5706000" />
-      <workItem from="1617766812461" duration="5173000" />
-      <workItem from="1617974133925" duration="796000" />
-      <workItem from="1618158321362" duration="278000" />
-      <workItem from="1618244675933" duration="609000" />
-      <workItem from="1618245565997" duration="4518000" />
-      <workItem from="1618284828664" duration="1733000" />
-      <workItem from="1618890606458" duration="4888000" />
-      <workItem from="1619169978390" duration="102000" />
+      <updated>1620139922846</updated>
+      <workItem from="1620139933159" duration="3275000" />
+      <workItem from="1620145162285" duration="10223000" />
+      <workItem from="1620185811137" duration="6437000" />
+      <workItem from="1620357219257" duration="1139000" />
+      <workItem from="1620664861386" duration="1191000" />
+      <workItem from="1620670542151" duration="1512000" />
+      <workItem from="1629249481607" duration="50000" />
     </task>
     <servers />
   </component>
